@@ -3,7 +3,7 @@ status = "";
 objects = [];
 
 function preload() {
-    img = loadImage('traffic1.jpg');
+    img = loadImage('dog_cat.jpg');
 }
 
 function setup() {
